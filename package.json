@@ -1,0 +1,19 @@
+{
+  "name": "kenny-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anboi1225/Kenny-DB.git"
+  },
+  "author": "Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anboi1225/Kenny-DB/issues"
+  },
+  "homepage": "https://github.com/anboi1225/Kenny-DB#readme"
+}
